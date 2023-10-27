@@ -186,7 +186,7 @@ def httpcall(url):
 
 			set_flag(1)
 
-			print 'rest and peace ina mo '500'
+			print 'rest and peace ina mo 500'
 
 			code=500
 
